@@ -96,7 +96,7 @@ const MobileCard = () => {
           </div>
           {/* download cv button */}
           <Link
-            href="/assets/cv.pdf"
+            href="/assets/Shahzaib Resume  IT CV.pdf"
             target="_blank"
             className="mt-4 w-full text-center cursor-pointer"
           >
